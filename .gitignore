@@ -1,0 +1,60 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime 
+.jupyter/
+.jupyter_runtime/
+
+# Anaconda / Conda environment klasörleri
+env/
+venv/
+myenv/
+.venv/
+.conda/
+.anaconda/
+
+# Conda environment listeleri ve dosyaları 
+*.conda
+# environment.yml 
+*.yml
+*.yaml
+
+# VSCode ayarları
+.vscode/
+
+# PyCharm ayarları
+.idea/
+
+# Log dosyaları
+*.log
+
+# Derlenmiş C uzantıları
+*.so
+*.pyd
+
+# Paket ve dağıtım dosyaları
+*.egg-info/
+dist/
+build/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Python virtual environment
+.Python
+
+# Büyük veri dosyaları 
+data/*
+# Örnek veri dosyaları için data/sample/ 
+!data/sample/
