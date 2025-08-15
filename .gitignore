@@ -57,4 +57,4 @@ Thumbs.db
 # Büyük veri dosyaları 
 data/*
 # Örnek veri dosyaları için data/examples/ 
-data/examples/
+examples/
