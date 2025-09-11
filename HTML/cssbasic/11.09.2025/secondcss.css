@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Arial Narrow Bold';
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}

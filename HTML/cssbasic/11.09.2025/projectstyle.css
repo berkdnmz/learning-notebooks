@@ -1,0 +1,37 @@
+h2 {
+    color:crimson;
+    background-color: black;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+p {
+    color: orange;
+    background-color: seagreen;
+}
+
+.firstdiv {
+    background-color: chartreuse;
+}
+
+#myparagraph {
+    color: black;
+}
+
+.seconddiv {
+    background-color: burlywood;
+}
+
+#secondparagraph {
+    color: blueviolet;
+}
+
+div {
+    background-color: black;
+}
+
+span {
+    background-color: royalblue;
+}
